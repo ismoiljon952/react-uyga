@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <>
             <nav>
-                <div id="logo"></div>
+                <div id="logo">Ismoiljon</div>
                 <ul>
                     <li>
                         <Link to={"/"}>Home</Link>
